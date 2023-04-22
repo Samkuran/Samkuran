@@ -1,4 +1,4 @@
-<h1><img src="![gatinho](https://myoctocat.com/assets/images/base-octocat.svg)](https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif)" width="30"/>  Hi there 👋</h1>
+<h1><picture><img alt="gatinho" src="https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif"><picture> Hi there 👋</h1>
 
 <!--
 **Samkuran/Samkuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
