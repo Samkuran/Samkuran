@@ -1,4 +1,4 @@
-<picture><img alt="gatinho" src="https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif"><picture> <h1>Hi there 👋</h1>
+# <img src="https://user-images.githubusercontent.com/124678532/233802741-26378aed-effa-49e6-a81c-120070e8190d.png" width="40"/> Hi there
 
 <!--
 **Samkuran/Samkuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
