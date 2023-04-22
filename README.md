@@ -1,5 +1,4 @@
-<h1><img src="![image](https://user-images.githubusercontent.com/124678532/233802110-e2ea891a-d634-4515-bb80-924dbd9c0fd9.png)" width="30"/>  Hi there 👋</h1>
-
+<h1><img src="![gatinho](https://myoctocat.com/assets/images/base-octocat.svg)](https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif)" width="30"/>  Hi there 👋</h1>
 
 <!--
 **Samkuran/Samkuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
