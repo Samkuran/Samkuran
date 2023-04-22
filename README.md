@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1><img src="https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif" width="30"/>  Hi there 👋</h1>
+
 
 <!--
 **Samkuran/Samkuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
