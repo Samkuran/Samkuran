@@ -13,7 +13,7 @@
 
 
 ## Contributions
-<div align="center"> 
+<div> 
 <img src="https://cdn.discordapp.com/attachments/329780212944470016/1099428672429117480/semfundo.png" width="20%" />
  
 <picture>
